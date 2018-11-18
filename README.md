@@ -68,7 +68,7 @@
     
 
 - Ref:
-  - https://blog.csdn.net/cuit/article/details/82530271
-  - https://blog.csdn.net/cuit/article/details/82558692
-  - https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html
+  - 哈希交易链 https://blog.csdn.net/cuit/article/details/82530271
+  - 智能合约 https://blog.csdn.net/cuit/article/details/82558692
+  - 比特币开发者指南 https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html
 
