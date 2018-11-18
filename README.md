@@ -70,4 +70,5 @@
 - Ref:
   - https://blog.csdn.net/cuit/article/details/82530271
   - https://blog.csdn.net/cuit/article/details/82558692
+  - https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html
 
