@@ -71,4 +71,5 @@
   - 哈希交易链 https://blog.csdn.net/cuit/article/details/82530271
   - 智能合约 https://blog.csdn.net/cuit/article/details/82558692
   - 比特币开发者指南 https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html
+  - 华为社区区块链 https://bbs.huaweicloud.com/blogs/405becb21d1c11e89fc57ca23e93a89f
 
